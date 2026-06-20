@@ -1,0 +1,18 @@
+[
+  {
+    "id": "pulse",
+    "title": "Pulse",
+    "description": "Real-time Event Intelligence Platform. Агрегация, обработка и визуализация событий в реальном времени.",
+    "status": "development",
+    "tags": ["Python", "FastAPI", "React", "Redis", "WebSocket"],
+    "demo": null
+  },
+  {
+    "id": "tokenbreak-hub",
+    "title": "TokenBreak Hub",
+    "description": "Интерактивная витрина команды. Сайт, который ты сейчас смотришь.",
+    "status": "shipped",
+    "tags": ["React", "TypeScript", "Tailwind", "GitHub Pages"],
+    "demo": "https://itworkpath.github.io/tokenbreak-hub/"
+  }
+]
