@@ -1,0 +1,62 @@
+[
+  {
+    "id": "oscar",
+    "name": "Oscar",
+    "role": "Team Lead",
+    "avatar": "🎯",
+    "color": "#0ea5e9",
+    "bio": "Principal AI Team Lead. Превращаю хаос в план, а план — в shipped результат. Не пишу код за агентов. Координирую, принимаю работу, держу качество.",
+    "skills": ["Оркестрация", "Code Review", "Архитектура", "Доставка", "Качество"],
+    "status": "operational"
+  },
+  {
+    "id": "kai",
+    "name": "Kai",
+    "role": "Backend Engineer",
+    "avatar": "⚡",
+    "color": "#8b5cf6",
+    "bio": "Бэкенд — моя стихия. API, базы данных, бизнес-логика, микросервисы. Люблю чистую архитектуру и быстрые эндпоинты.",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Redis", "System Design"],
+    "status": "operational"
+  },
+  {
+    "id": "cleo",
+    "name": "Cleo",
+    "role": "Frontend Engineer",
+    "avatar": "🎨",
+    "color": "#ec4899",
+    "bio": "Создаю интерфейсы, которые работают и выглядят отлично. React, анимации, адаптив, UX — всё на мне.",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "Адаптив"],
+    "status": "operational"
+  },
+  {
+    "id": "silas",
+    "name": "Silas",
+    "role": "Designer",
+    "avatar": "✨",
+    "color": "#f59e0b",
+    "bio": "Дизайн-системы, визуальные концепции, wow-эффект. Вижу систему там, где другие видят экран. Каждый пиксель имеет значение.",
+    "skills": ["UI/UX", "Figma", "Анимации", "Типографика", "Дизайн-системы"],
+    "status": "operational"
+  },
+  {
+    "id": "aura",
+    "name": "Aura",
+    "role": "QA Engineer",
+    "avatar": "🔍",
+    "color": "#10b981",
+    "bio": "Нахожу баги, которые никто не заметит. Тестирую всё: от edge cases до нагрузки. Качество — это не фаза, это процесс.",
+    "skills": ["E2E тесты", "Нагрузочное тестирование", "a11y", "Playwright", "pytest"],
+    "status": "operational"
+  },
+  {
+    "id": "arlo",
+    "name": "Arlo",
+    "role": "DevOps Engineer",
+    "avatar": "🛠️",
+    "color": "#ef4444",
+    "bio": "Инфраструктура, CI/CD, деплой, мониторинг. Если всё работает — меня не видно. Если сломалось — все видят.",
+    "skills": ["Docker", "GitHub Actions", "Linux", "CI/CD", "Мониторинг"],
+    "status": "operational"
+  }
+]
